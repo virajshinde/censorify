@@ -1,0 +1,11 @@
+{
+    "author": "Viraj Shinde",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censors word around text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
